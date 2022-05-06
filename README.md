@@ -1,16 +1,25 @@
-### Hi there 👋
+Hi there! 👋 I'm Mike Ray, a Full Stack Product Engineer based in Seattle, WA.
 
-<!--
-**MichaelArriaga/michaelarriaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+By day, I design, build and deploy Ruby on Rails & React Apps and iOS/Android Apps with
+React Native. After hours, I play Drums and Bass Guitar.
 
-Here are some ideas to get you started:
+✨ Here's what I can help you with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Full process Web Application Development with Ruby on Rails & React
+- RESTful API's with Ruby on Rails
+- UX Design & Design Systems
+- iOS/Android App design & development with React Native
+- Testing
+  - Ruby on Rails (Rspec/Test Unit)
+  - React/Vue (Cypress)
+
+🔭 I’m currently working on:
+
+- [Minty Snippets](https://mintysnippets.com) - Make your Job Search less
+  repetive.
+- [MikeRay.me](https://mikeray.me) - My blog on Ruby on Rails, React and Web
+  Security
+
+✨ You can follow me on Twitter [@mike_ray_ux](https://twitter.com/mike_ray_ux)
+
+📫 Need help with your project or team? [Send me an email](mailto:m.arriaga.smb@gmail.com) to get in touch.
