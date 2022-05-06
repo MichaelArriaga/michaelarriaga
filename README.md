@@ -22,4 +22,4 @@ React Native. After hours, I play Drums and Bass Guitar.
 
 ✨ You can follow me on Twitter [@mike_ray_ux](https://twitter.com/mike_ray_ux)
 
-📫 Need help with your project or team? [Send me an email](mailto:m.arriaga.smb@gmail.com) to get in touch.
+📫 Need help with your project or team? [Send me an email](mailto:m.arriaga.smb@gmail.com). Let's get in touch!
