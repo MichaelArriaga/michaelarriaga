@@ -1,6 +1,6 @@
 Hi there! 👋 I'm Mike Ray, a Full Stack Product Engineer based in Seattle, WA.
 
-By day, I design, build and deploy Ruby on Rails & React Apps and iOS/Android Apps with
+By day, I design, build and deploy Ruby on Rails & React Apps as well as iOS/Android Apps with
 React Native. After hours, I play Drums and Bass Guitar.
 
 ✨ Here's what I can help you with:
