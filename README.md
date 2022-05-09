@@ -9,9 +9,7 @@ React Native. After hours, I play Drums and Bass Guitar.
 - RESTful API's with Ruby on Rails
 - UX Design & Design Systems
 - iOS/Android App design & development with React Native
-- Testing
-  - Ruby on Rails (Rspec/Test Unit)
-  - React/Vue (Cypress)
+- Unit/IntegrationTesting: Ruby on Rails & React
 
 🔭 I’m currently working on:
 
