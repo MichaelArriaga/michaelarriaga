@@ -14,7 +14,7 @@ React Native. After hours, I play Drums and Bass Guitar.
 🔭 I’m currently working on:
 
 - [Minty Snippets](https://mintysnippets.com) - Make your Job Search less
-  repetive. (Placed #7 on Product Hunt 🎉)
+  repetive. (Product Hunt #7 Product of the Day  🎉)
 - [MikeRay.me](https://mikeray.me) - My blog on Ruby on Rails, React and Web
   Security
 
